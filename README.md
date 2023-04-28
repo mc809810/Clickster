@@ -1,2 +1,3 @@
 # Clickster
-Final CSI3370 Project - Clickster 9000 - Team 6
+CSI3370 Project
+Nothing is final in the repository until it is, so there may be placeholder files for images & sounds.
